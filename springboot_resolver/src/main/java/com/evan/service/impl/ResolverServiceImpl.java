@@ -5,7 +5,7 @@ import com.evan.dao.ResolverDao;
 import com.evan.entity.DataBase;
 import com.evan.entity.OprData;
 import com.evan.service.ResolverService;
-import com.evan.util.JsonToJava;
+import com.evan.utils.JsonToJava;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

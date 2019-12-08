@@ -1,4 +1,4 @@
-package com.evan.util;
+package com.evan.utils;
 
 import com.alibaba.fastjson.JSON;
 
