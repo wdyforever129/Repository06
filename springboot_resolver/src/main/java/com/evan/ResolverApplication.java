@@ -15,6 +15,7 @@ public class ResolverApplication {
         return "Resolver Service is start!";
     }
 
+    //okcs
     public static void main(String[] args) {
         SpringApplication.run(ResolverApplication.class, args);
         System.out.println("Hello!");
