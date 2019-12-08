@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping(path="/test",method = RequestMethod.GET)
 public class ResolverApplication {
 
+	//∆Ù∂Ø¿‡
     @RequestMapping(value = "/Resolver")
     public String testResolver(){
         System.out.println("Hello,Resolver");
